@@ -1,0 +1,10 @@
+@import 'utilities/variables';
+@import 'utilities/mixins';
+@import 'base/typo';
+@import 'base/reset';
+
+
+body{
+    background-color: $quaternary-color;
+    color: $secondary-color;
+}
